@@ -1,0 +1,34 @@
+{
+  "name": "hand-ui",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "5.1.7",
+    "@react-three/fiber": "6.2.0",
+    "@react-three/xr": "3.1.1",
+    "@types/react": "16.9.35",
+    "@types/react-dom": "16.9.8",
+    "@types/three": "0.127.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1",
+    "react-spring": "9.1.0",
+    "three": "0.127.0",
+    "three.meshline": "1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
